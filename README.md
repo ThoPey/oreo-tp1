@@ -1,4 +1,4 @@
-# OREO-TPN
+# OREO-TP1
 
 Optimisation et REcherche Opérationnelle, TP noté
 
